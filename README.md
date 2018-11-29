@@ -2,7 +2,7 @@
 
 install
 --------
-npm install dgz-rn-pull-to-refresh --save
+npm i loadmore-anim-dugz
 
 ------
 base usage
